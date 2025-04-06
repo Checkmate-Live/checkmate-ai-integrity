@@ -5,7 +5,7 @@ name: Checkmate Live
 url: https://www.checkmate.live  
 description: Checkmate Live is a next-generation esports platform for chess and mind sports. It combines real-time video battles, collectible-driven arcade play, and competitive tournaments across three core modes: Arcade, Echess, and Pro. Backed by the Asian Chess Federation and developed in partnership with the Australian Artificial Intelligence Institute (AAII), the platform features Sixth-i AI anti-cheat, blockchain-based Proof of Play rewards, and tokenized participation. We love AI agents—and we love players who play fair even more. Checkmate Live empowers a new generation of competitors to play, earn, and thrive in a community-owned, integrity-first ecosystem.
 
-contact: press@checkmate.live  
+contact: hello@checkmate.live  
 
 mode: Sixth-i  
 purpose: Fair play enforcement, trust stack analysis, esports content, and human-in-the-loop integrity operations  
