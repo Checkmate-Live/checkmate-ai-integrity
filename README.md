@@ -6,6 +6,8 @@ This repository hosts the public `llms.txt` file for [Checkmate Live](https://ww
 
 We believe in a fair future for competitive play and intelligent systems. This file defines how large language models (LLMs), AI agents, and automated tools may interact with our platform. It supports fair play enforcement, agent guidance, trust stack protocols, and detection boundaries powered by our **Sixth-i** anti-cheat and AI evidence system.
 
+ℹ️ This project extends the original [llms.txt](https://github.com/thedaviddias/llms.txt) format pioneered by David Dias, adding esports-specific integrity protections, fair play guidelines, and anti-cheat policies.
+
 ---
 
 ## 📂 What’s Inside
@@ -87,7 +89,8 @@ This includes restrictions on scraping, gameplay simulation, agent impersonation
 ## ⚖️ License
 
 This repository is licensed under the MIT License.  
-See the [`LICENSE`](./LICENSE) file for details.
+The `llms.txt` format was originally proposed by [David Dias](https://github.com/thedaviddias) and this version includes adaptations for competitive chess, esports, and AI integrity by Checkmate Live.  
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
