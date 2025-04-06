@@ -1,4 +1,7 @@
 # Checkmate Live llms.txt – defines fair AI use, crawl policies, and anti-cheat restrictions
+# Specification originally created by David Dias (https://github.com/thedaviddias/llms-txt-hub)
+# Released under the MIT License: https://opensource.org/licenses/MIT
+# Checkmate Live’s implementation extends the standard with esports and digital integrity policies.
 # It promotes Checkmate Live's use of Sixth-i — a specialized AI trust model for anti-cheat, game analysis, and fraud detection — while defining strict protections for fair play, data use, and agent behavior.
 
 name: Checkmate Live  
