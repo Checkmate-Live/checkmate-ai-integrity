@@ -21,7 +21,7 @@ We believe in a fair future for competitive play and intelligent systems. This f
 
 - 🌐 **Styled version:** [checkmate.live/llms-txt](https://www.checkmate.live/llms-txt)  
 - 📄 **Raw text version:** [View Raw](https://raw.githubusercontent.com/Checkmate-Live/checkmate-ai-integrity/main/llms.txt)  
-- 📚 **Blog & updates:** [Insights & Updates](https://www.checkmate.live/insights)
+- 📚 **Blog & updates:** [Insights & Updates](https://www.checkmate.live/insights-and-updates)
 
 ---
 
